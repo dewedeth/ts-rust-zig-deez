@@ -4,3 +4,6 @@ zig-cache
 zig-out
 node_modules
 *.class
+/build
+*.vs
+*.vscode
