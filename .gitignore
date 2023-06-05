@@ -7,4 +7,7 @@ node_modules
 /build
 *.vs
 *.vscode
+/.idea
+*.iml
+.build/
 /rust/target/
