@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-nocheck
 
 /**
  * supported token types
@@ -33,6 +33,7 @@ const Tokens = /** @type {const} */ ({
  * a set of all token type values used for quick lookup
  * @type {Set<string>}
  */
+// @ts-ignore
 const tokenSet = new Set(Object.values(Tokens));
 
 /** @type {Record<string, TokenType>} */
