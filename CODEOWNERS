@@ -13,6 +13,7 @@
 /cobol/         @kkard2
 /common-lisp/   @lh2
 /cpp/           @nicdgonzalez
+/cpp-spongman/  @Spongman
 /crystal/       @devnote-dev
 /csharp/        @MarioGK @TomasDurica
 /csharp2/       @leo-costa @redducks100
@@ -39,9 +40,11 @@
 /javascript/    @trvswgnr
 /nasm/          @onehunga @iamevie
 /nim/           @Echriser
+/nelua/         @LucasTavaresA
 /pascal/        @attilakapostyak
 /ocaml/         @tjdevries
 /jai/           @marvhus
+/k/             @fluentpwn
 /kotlin-multiplatform/      @hermannm @ekgame @LizAinslie
 /kotlin-deez/   @sergushka
 /lua/           @aretrosen
@@ -67,3 +70,4 @@
 /swift/         @marcusziade @MatsMoll
 /holyc/         @xslendix
 /scala/         @alextsc
+/visual-cobol-micro-focus/ @LTR-Travis
